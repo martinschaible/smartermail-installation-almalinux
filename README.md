@@ -1,2 +1,12 @@
-# smartermail-installation-almalinux
-This is an alternative installation guide for SmarterMail on Linux, specifically AlmaLinux. Migration from Windows to Linux is also described..
+## Smartermail Installation for AlmaLinux
+
+:Fire: This is an alternative installation guide for SmarterMail on Linux, specifically **AlmaLinux 10.x**.
+
+In the wiki I show the installation, the provision of the proxy with **nginx** and the migration of the data from the Windows Server.
+
+* I hope you might be able to use some of the ideas or approaches.
+* This documentation supplements the SmarterTools manual and does not replace it.
+
+:arrow_right: :arrow_right: [Click here to go to the Wiki](../../wiki)
+
+### Links:
