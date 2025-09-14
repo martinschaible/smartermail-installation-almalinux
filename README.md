@@ -9,6 +9,6 @@ In the wiki I show the installation, the provision of the proxy with **nginx** a
 
 :arrow_right: :arrow_right: [Click here to go to the Wiki](../../wiki)
 
-You found an error, a typo or my english is to bad? Then please open an issue.
+Did you find a bug or my English is too poor? Then please open an issue.
 
 <p align="center">Made with :heart: and :coffee:</p>
