@@ -11,3 +11,4 @@ In the wiki I show the installation, the provision of the proxy with **nginx** a
 
 You found an error, a typo or my english is to bad? Then please open an issue.
 
+<p align="center">Made with :heart: and :coffee:</p>
